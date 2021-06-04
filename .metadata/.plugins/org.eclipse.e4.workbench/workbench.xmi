@@ -6,10 +6,20 @@
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
+    <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
+    <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1622832875358"/>
+    <persistedState key="show_in_time" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;show_in_time/>"/>
     <tags>topLevel</tags>
+<<<<<<< Updated upstream
     <children xsi:type="basic:PartSashContainer" xmi:id="_4XxrcsJNEeumC7GO5yGbnw" selectedElement="_4Xxrc8JNEeumC7GO5yGbnw" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_4Xxrc8JNEeumC7GO5yGbnw" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_4XxrdMJNEeumC7GO5yGbnw">
         <children xsi:type="advanced:Perspective" xmi:id="_4XxrdMJNEeumC7GO5yGbnw" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_4XySgMJNEeumC7GO5yGbnw" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
+=======
+    <tags>shellMaximized</tags>
+    <children xsi:type="basic:PartSashContainer" xmi:id="_vB0wMrlvEeuX5qBQjSzSGA" selectedElement="_vB0wM7lvEeuX5qBQjSzSGA" horizontal="true">
+      <children xsi:type="advanced:PerspectiveStack" xmi:id="_vB0wM7lvEeuX5qBQjSzSGA" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_vB0wNLlvEeuX5qBQjSzSGA">
+        <children xsi:type="advanced:Perspective" xmi:id="_vB0wNLlvEeuX5qBQjSzSGA" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_vB0wNblvEeuX5qBQjSzSGA" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
+>>>>>>> Stashed changes
           <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:print,persp.hideToolbarSC:org.eclipse.ui.edit.undo,persp.hideToolbarSC:org.eclipse.ui.edit.redo,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,"/>
           <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
           <tags>persp.actionSet:org.eclipse.search.searchActionSet</tags>
@@ -67,12 +77,21 @@
           <tags>persp.viewSC:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
+<<<<<<< Updated upstream
           <children xsi:type="basic:PartSashContainer" xmi:id="_4XySgMJNEeumC7GO5yGbnw" selectedElement="_4XySjMJNEeumC7GO5yGbnw" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_4XySgcJNEeumC7GO5yGbnw" containerData="2500" selectedElement="_4XySgsJNEeumC7GO5yGbnw">
               <children xsi:type="basic:PartSashContainer" xmi:id="_4XySgsJNEeumC7GO5yGbnw" containerData="6000" selectedElement="_4XySg8JNEeumC7GO5yGbnw">
                 <children xsi:type="basic:PartStack" xmi:id="_4XySg8JNEeumC7GO5yGbnw" elementId="left" containerData="6600" selectedElement="_4XyShMJNEeumC7GO5yGbnw">
                   <tags>org.eclipse.e4.primaryNavigationStack</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_4XyShMJNEeumC7GO5yGbnw" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_4Xy69sJNEeumC7GO5yGbnw" closeable="true">
+=======
+          <children xsi:type="basic:PartSashContainer" xmi:id="_vB0wNblvEeuX5qBQjSzSGA" selectedElement="_vB0wNrlvEeuX5qBQjSzSGA" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_vB0wNrlvEeuX5qBQjSzSGA" containerData="2500" selectedElement="_vB0wN7lvEeuX5qBQjSzSGA">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_vB0wN7lvEeuX5qBQjSzSGA" containerData="6000" selectedElement="_vB0wPblvEeuX5qBQjSzSGA">
+                <children xsi:type="basic:PartStack" xmi:id="_vB0wOLlvEeuX5qBQjSzSGA" elementId="left" toBeRendered="false" containerData="6600">
+                  <tags>org.eclipse.e4.primaryNavigationStack</tags>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_vB0wOblvEeuX5qBQjSzSGA" elementId="org.eclipse.jdt.ui.PackageExplorer" toBeRendered="false" ref="_vB1XX7lvEeuX5qBQjSzSGA" closeable="true">
+>>>>>>> Stashed changes
                     <tags>View</tags>
                     <tags>categoryTag:Java</tags>
                   </children>
@@ -89,8 +108,14 @@
                     <tags>categoryTag:Java</tags>
                   </children>
                 </children>
+<<<<<<< Updated upstream
                 <children xsi:type="basic:PartStack" xmi:id="_4XySiMJNEeumC7GO5yGbnw" elementId="org.springframework.ide.eclipse.boot.dash.views.BootDashViewMStack" containerData="3400" selectedElement="_4XySicJNEeumC7GO5yGbnw">
                   <children xsi:type="advanced:Placeholder" xmi:id="_4XySicJNEeumC7GO5yGbnw" elementId="org.springframework.ide.eclipse.boot.dash.views.BootDashView" ref="_4Xy7YMJNEeumC7GO5yGbnw" closeable="true">
+=======
+                <children xsi:type="basic:PartStack" xmi:id="_vB0wPblvEeuX5qBQjSzSGA" elementId="org.springframework.ide.eclipse.boot.dash.views.BootDashViewMStack" containerData="3400" selectedElement="_vB0wPrlvEeuX5qBQjSzSGA">
+                  <tags>active</tags>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_vB0wPrlvEeuX5qBQjSzSGA" elementId="org.springframework.ide.eclipse.boot.dash.views.BootDashView" ref="_vB1XorlvEeuX5qBQjSzSGA" closeable="true">
+>>>>>>> Stashed changes
                     <tags>View</tags>
                     <tags>categoryTag:Other</tags>
                   </children>
@@ -200,6 +225,7 @@
       <tags>View</tags>
       <tags>categoryTag:Help</tags>
     </sharedElements>
+<<<<<<< Updated upstream
     <sharedElements xsi:type="advanced:Area" xmi:id="_4Xy61sJNEeumC7GO5yGbnw" elementId="org.eclipse.ui.editorss" selectedElement="_4Xy618JNEeumC7GO5yGbnw">
       <children xsi:type="basic:PartStack" xmi:id="_4Xy618JNEeumC7GO5yGbnw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_4Xy63MJNEeumC7GO5yGbnw">
         <tags>org.eclipse.e4.primaryDataStack</tags>
@@ -227,6 +253,12 @@
           <tags>removeOnHide</tags>
           <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
         </children>
+=======
+    <sharedElements xsi:type="advanced:Area" xmi:id="_vB1XQLlvEeuX5qBQjSzSGA" elementId="org.eclipse.ui.editorss" selectedElement="_vB1XQblvEeuX5qBQjSzSGA">
+      <children xsi:type="basic:PartStack" xmi:id="_vB1XQblvEeuX5qBQjSzSGA" elementId="org.eclipse.e4.primaryDataStack">
+        <tags>org.eclipse.e4.primaryDataStack</tags>
+        <tags>EditorStack</tags>
+>>>>>>> Stashed changes
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_4Xy69sJNEeumC7GO5yGbnw" elementId="org.eclipse.jdt.ui.PackageExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Package Explorer" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/package.png" tooltip="" closeable="true">
@@ -239,7 +271,11 @@
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
+<<<<<<< Updated upstream
       <toolbar xmi:id="_4Xy7DsJNEeumC7GO5yGbnw" elementId="org.eclipse.jdt.ui.PackageExplorer"/>
+=======
+      <toolbar xmi:id="_vB1Xd7lvEeuX5qBQjSzSGA" elementId="org.eclipse.jdt.ui.PackageExplorer" visible="false"/>
+>>>>>>> Stashed changes
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_4Xy7EsJNEeumC7GO5yGbnw" elementId="org.eclipse.jdt.ui.TypeHierarchy" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Type Hierarchy" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/class_hi.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyViewPart"/>
@@ -350,7 +386,13 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:Other</tags>
+<<<<<<< Updated upstream
       <menus xmi:id="_4Xy7YcJNEeumC7GO5yGbnw" elementId="org.springframework.ide.eclipse.boot.dash.views.BootDashView">
+=======
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
+      <menus xmi:id="_vB1Xo7lvEeuX5qBQjSzSGA" elementId="org.springframework.ide.eclipse.boot.dash.views.BootDashView">
+>>>>>>> Stashed changes
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
@@ -375,7 +417,11 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_4Xy7kMJNEeumC7GO5yGbnw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
+<<<<<<< Updated upstream
         <children xsi:type="menu:HandledToolItem" xmi:id="_4Xy7mMJNEeumC7GO5yGbnw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_4X2kOMJNEeumC7GO5yGbnw"/>
+=======
+        <children xsi:type="menu:HandledToolItem" xmi:id="_SZ2zYMVmEeulQPsYC96zwA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_vB30_7lvEeuX5qBQjSzSGA"/>
+>>>>>>> Stashed changes
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_4XzgoMJNEeumC7GO5yGbnw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -410,9 +456,13 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_4Xzg6sJNEeumC7GO5yGbnw" elementId="org.eclipse.jdt.ui.CompilationUnitEditor" visible="false">
         <tags>Draggable</tags>
+<<<<<<< Updated upstream
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_4Xzg68JNEeumC7GO5yGbnw" elementId="org.eclipse.m2e.editor.MavenPomEditor" visible="false">
         <tags>Draggable</tags>
+=======
+        <children xsi:type="menu:HandledToolItem" xmi:id="_SZ52sMVmEeulQPsYC96zwA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_vB30uLlvEeuX5qBQjSzSGA"/>
+>>>>>>> Stashed changes
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_4Xzg7MJNEeumC7GO5yGbnw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1401,18 +1451,31 @@
     <tags>View</tags>
     <tags>categoryTag:Other</tags>
   </descriptors>
+<<<<<<< Updated upstream
   <trimContributions xmi:id="_4X1V1cJNEeumC7GO5yGbnw" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
     <children xsi:type="menu:ToolControl" xmi:id="_4X1V1sJNEeumC7GO5yGbnw" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+=======
+  <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
+    <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+>>>>>>> Stashed changes
       <tags>glue</tags>
       <tags>move_after:PerspectiveSpacer</tags>
       <tags>SHOW_RESTORE_MENU</tags>
     </children>
+<<<<<<< Updated upstream
     <children xsi:type="menu:ToolControl" xmi:id="_4X1V18JNEeumC7GO5yGbnw" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
+=======
+    <children xsi:type="menu:ToolControl" xmi:id="_8tJPcF9tEeO-yojH_y4TJA" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
+>>>>>>> Stashed changes
       <tags>move_after:Spacer Glue</tags>
       <tags>HIDEABLE</tags>
       <tags>SHOW_RESTORE_MENU</tags>
     </children>
+<<<<<<< Updated upstream
     <children xsi:type="menu:ToolControl" xmi:id="_4X1V2MJNEeumC7GO5yGbnw" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+=======
+    <children xsi:type="menu:ToolControl" xmi:id="_9LgmcF9tEeO-yojH_y4TJA" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+>>>>>>> Stashed changes
       <tags>glue</tags>
       <tags>move_after:SearchField</tags>
       <tags>SHOW_RESTORE_MENU</tags>

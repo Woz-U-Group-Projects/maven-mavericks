@@ -12,6 +12,10 @@ INDEX VERSION 1.131+C:\Users\PRODESK5\OneDrive\Desktop\MyCode\maven-mavericks\.m
 1335975055.index
 2119249789.index
 2904495346.index
+<<<<<<< Updated upstream
+=======
+2470141878.index
+>>>>>>> Stashed changes
 9988667.index
 298589300.index
 777448528.index
