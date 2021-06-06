@@ -14,38 +14,38 @@ class Task extends React.Component {
 
   getData = () => {
 
-    //UNCOMMENT the appropriate url for the backend framework
-
-    // Java Spring Boot uses port 8080
     let url = "http://localhost:8080/tasks";
-
-    // C# dotnetcore uses port 5000
-    //let url = "http://localhost:5000/projects";
-
-    // Express uses port 3001 (react uses 3000)
-    //let url = "http://localhost:3001/tasks";
+ 
     axios.get(url).then(response => this.setState({ tasks: response.data }));
   };
 
-  addTask = () => {
-    //uncomment and update url to appropriate url for backend connection
-    
+  addTask = () => {  
     let url = "http://localhost:3001/tasks";
     axios.post(url, { name: this.taskName.current.value }).then(response => {
-      // refresh the data
       this.getData();
-      // empty the input
       this.taskName.current.value = "";
     });
   };
-
-  //create update and delete functions to complete CRUD
+  updateTask = () => {
+    let url = "http://localhost:3001/tasks";
+    axios.post(url, { name: this.taskName.current.value }).then(response => {
+      this.getData();
+      this.taskName.current.value = "";
+    });
+  };
+  deleteTask = () => {
+    let url = "http://localhost:3001/tasks";
+    axios.delete(url, { name: this.taskName.current.value }).then(response => {
+      this.getData();
+      this.taskName.current.value = "";
+    });
+  };
 
 
   render() {
     return (
       <div>
-        <h1>To Do List:</h1>
+        <h1>Task List:</h1>
         <input ref={this.taskName} />
         <button type="button" className="btn btn-primary" onClick={this.addTask}>add</button>
         <ul>

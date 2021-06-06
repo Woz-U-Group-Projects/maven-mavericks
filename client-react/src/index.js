@@ -23,16 +23,15 @@ var table = [
 ];
 	var logouted = [
 	{nombre: "Alejandra", contraseña: "123", login: "20:47:48", logout: "00:00:00"}];
-function ocultar(){
-	
+new function ocultar(){
 	
 	document.getElementById("todo2").style.display = "none";
 	document.getElementById("todo3").style.display = "none";
 	document.getElementById("todo4").style.display = "none";
 	document.getElementById("week").style.display = "none";
 	document.getElementById("show-tabla").style.display = "none";
-}
-function first(){
+	}
+new function first(){
 	alert ("go to first");
 	document.getElementById("todo1").style.display = "block";
 	document.getElementById("todo2").style.display = "none";
